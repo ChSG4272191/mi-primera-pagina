@@ -2,3 +2,9 @@ body{
 background-color: deepskyblue;    
 
 }
+p{
+    color: lightcoral;
+    background-color: aquamarine;
+    border-radius: 10px;
+    text-align: center;
+}
